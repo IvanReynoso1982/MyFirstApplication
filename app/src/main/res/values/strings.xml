@@ -1,0 +1,7 @@
+<resources>
+
+
+    <string name="app_name">Nom de votre application</string>
+    <string name="hint_text">Entrez votre message</string>
+    <string name="send_button">Envoyer</string>
+</resources>
